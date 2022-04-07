@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lupuvlad
+- 👋 Hi, I’m Vlad
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Node.js, MongoDB, NPM, Express.js, API, REST, GIT 
 - 💞️ I’m looking to collaborate on small and big projects
