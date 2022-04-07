@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lupuvlad
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Node.js, MongoDB, NPM, Express.js, API, REST, GIT 
-- 💞️ I’m looking to collaborate on small projects
+- 💞️ I’m looking to collaborate on small and big projects
 - 📫 How to reach me -> https://www.linkedin.com/in/vlad-alexandru-lupu
 
 <!---
